@@ -15,7 +15,7 @@ aims to predict whether a passenger would have survived the tragic sinking of th
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/titanic-survival-prediction.git
+   git clone https://github.com/Fakiha098/titanic-survival-prediction.git
 cd titanic-survival-prediction
 pip install -r requirements.txt
 
